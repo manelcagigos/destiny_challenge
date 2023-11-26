@@ -1,6 +1,4 @@
-# destiny_challenge
-
-# Destiny 🤔
+# Destiny 🤔[^1]
 
 ## Our Goal
 
@@ -12,3 +10,5 @@ In this challenge, you will be building a choose your own adventure game like Ba
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+
+[^1]: This was extracted from the github repository of the course, [Destini github repository from londonappbrewery](https://github.com/londonappbrewery/destini-challenge-starting).
